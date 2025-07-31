@@ -1,4 +1,4 @@
-# Limpeza Express - Landing Page
+# SuperLimpo - Landing Page
 
 Landing page simples para serviço de limpeza residencial em São Paulo.
 

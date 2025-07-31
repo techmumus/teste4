@@ -1,5 +1,5 @@
 {
-  "name": "limpeza-express-landing",
+  "name": "superlimpo-landing",
   "version": "1.0.0",
   "description": "Landing page simples para serviço de limpeza residencial",
   "main": "index.html",
@@ -7,7 +7,7 @@
     "start": "npx http-server -p $PORT -c-1"
   },
   "keywords": ["landing-page", "limpeza", "serviço", "residencial"],
-  "author": "Limpeza Express",
+  "author": "SuperLimpo",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^14.1.1"
