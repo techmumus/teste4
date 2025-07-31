@@ -1,0 +1,15 @@
+{
+  "name": "limpeza-express-landing",
+  "version": "1.0.0",
+  "description": "Landing page simples para serviço de limpeza residencial",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p $PORT -c-1"
+  },
+  "keywords": ["landing-page", "limpeza", "serviço", "residencial"],
+  "author": "Limpeza Express",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
